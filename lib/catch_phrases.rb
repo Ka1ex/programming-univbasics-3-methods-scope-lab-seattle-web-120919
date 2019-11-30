@@ -10,4 +10,4 @@ def toadstool
 end
 
 def link
-  output = 
+  output = rspec spec/catch_phrases_spec.rb 
