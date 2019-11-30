@@ -10,4 +10,6 @@ def toadstool
 end
 
 def link
-  output = rspec spec/catch_phrases_spec.rb 
+  output = "It's Dangerous To Go Alone! Take This."
+  puts output
+end
