@@ -14,4 +14,5 @@ def link
   puts output
 end
 
-def any_phrase
+def any_phrase(phrase)
+  puts "#{phrase}"
